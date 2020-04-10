@@ -3,7 +3,6 @@ version 18
 __lua__
 --game code
 -- test
---lil bitch
 function _init()
 
 delay=0
